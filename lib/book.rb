@@ -19,6 +19,6 @@ class Book
 
   def brand=(brand)
     @brand = brand;
-    BRAND << brand;
+    BRANDS << brand;
   end
 end
